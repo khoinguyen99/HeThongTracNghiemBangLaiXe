@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="jScrollPane1" max="32767" attributes="0"/>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" attributes="0">
+                              <EmptySpace min="-2" pref="294" max="-2" attributes="0"/>
+                              <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="-2" pref="289" max="-2" attributes="0"/>
+                              <Component id="jButton1" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace min="0" pref="337" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jScrollPane1" pref="458" max="32767" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jButton1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="30" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="24" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="M&#x1eb9;o h&#x1ecd;c"/>
+      </Properties>
+    </Component>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextArea" name="txtMeo">
+          <Properties>
+            <Property name="columns" type="int" value="20"/>
+            <Property name="rows" type="int" value="5"/>
+            <Property name="text" type="java.lang.String" value="&#x9;Nh&#x1b0; c&#xe1;c b&#x1ea1;n &#x111;&#xe3; bi&#x1ebf;t &#x111;&#x1ec3; thi &#x111;&#x1ea1;t ph&#x1ea7;n thi l&#xfd; thuy&#x1ebf;t xe m&#xe1;y h&#x1ea1;ng A1 b&#x1ea1;n c&#x1ea7;n ph&#x1ea3;i &#xa;tr&#x1ea3; l&#x1edd;i 16 c&#xe2;u &#x111;&#xfa;ng tr&#xea;n t&#x1ed5;ng s&#x1ed1; 20 c&#xe2;u h&#x1ecf;i l&#x1ea5;y ng&#x1eab;u nhi&#xea;n trong b&#x1ed9; &#x111;&#x1ec1; 150 c&#xe2;u h&#x1ecf;i. M&#xe0;&#xa;&#x111;i&#x1ec1;u n&#xe0;y kh&#xf4;ng ph&#x1ea3;i l&#xe0; &#x111;&#x1a1;n gi&#x1ea3;n &#x111;&#x1ed1;i v&#x1edb;i t&#x1ea5;t c&#x1ea3; c&#xe1;c h&#x1ecd;c vi&#xea;n. V&#xe0; m&#x1eb9;o h&#x1ecd;c b&#x1eb1;ng l&#xe1;i xe m&#xe1;y&#xa;l&#xe0; m&#x1ed9;t ch&#x1ee7; &#x111;&#x1ec1; m&#xe0; r&#x1ea5;t nhi&#x1ec1;u h&#x1ecd;c vi&#xea;n quan t&#xe2;m trong c&#xe1;c bu&#x1ed5;i h&#x1ecd;c l&#xfd; thuy&#x1ebf;t c&#x169;ng nh&#x1b0; tr&#xea;n&#xa;m&#x1ea1;ng internet. B&#x1ea1;n &#x111;&#xe3; t&#x1eeb;ng t&#xec;m ki&#x1ebf;m M&#x1eb9;o h&#x1ecd;c b&#x1eb1;ng l&#xe1;i xe m&#xe1;y tr&#xea;n m&#x1ea1;ng v&#xe0; c&#x169;ng t&#xec;m &#x111;&#x1b0;&#x1ee3;c&#xa;v&#xe0;i m&#x1eb9;o h&#x1ecd;c  nh&#x1b0;ng l&#x1ea1;i kh&#xf4;ng &#x111;&#x1ea7;y &#x111;&#x1ee7; v&#xe0; ch&#xed;nh x&#xe1;c. V&#x1edb;i kinh nghi&#x1ec7;m nhi&#x1ec1;u n&#x103;m trong c&#xf4;ng &#xa;t&#xe1;c gi&#x1ea3;ng d&#x1ea1;y ch&#xfa;ng t&#xf4;i tin &#x111;&#xe2;y c&#x169;ng l&#xe0; t&#xe0;i li&#x1ec7;u gi&#xfa;p nh&#x1eef;ng h&#x1ecd;c vi&#xea;n &#x111;ang theo h&#x1ecd;c t&#x1ea1;i&#xa;trung t&#xe2;m c&#x169;ng nh&#x1b0; b&#x1ea1;n &#x111;&#x1ecd;c tr&#xea;n internet c&#xf3; m&#x1ed9;t t&#xe0;i li&#x1ec7;u tham kh&#x1ea3;o ho&#xe0;n thi&#x1ec7;n nh&#x1ea5;t v&#x1ec1; &#xa;h&#x1ecd;c l&#xfd; thuy&#x1ebf;t xe m&#xe1;y.&#xa;&#xa;&#x9;Ch&#xfa;ng t&#xf4;i s&#x1ebd; tr&#xec;nh b&#xe0;y chi ti&#x1ebf;t t&#x1eeb;ng ph&#x1ea7;n nh&#x1b0; sau :&#xa;&#xa;Ph&#x1ea7;n 1. Nh&#x1eef;ng c&#xe2;u h&#x1ecf;i kh&#xe1;i ni&#x1ec7;m :&#xa;&#xa;&#x2013; Nh&#x1ead;n d&#x1ea1;ng c&#xe2;u h&#x1ecf;i n&#xe0;y nh&#x1b0; sau : tr&#xea;n c&#xe2;u h&#x1ecf;i s&#x1ebd; c&#xf3; t&#x1eeb; &#x201c;Kh&#xe1;i ni&#x1ec7;m&#x201d;.&#xa;V&#xed; d&#x1ee5; : C&#xe2;u s&#x1ed1; 1 trong b&#x1ed9; &#x111;&#x1ec1; 150 c&#xe2;u : Kh&#xe1;i ni&#x1ec7;m &#x201c;&#x111;&#x1b0;&#x1edd;ng b&#x1ed9;&#x201d; &#x111;&#x1b0;&#x1ee3;c hi&#x1ec3;u th&#x1ebf; n&#xe0;o l&#xe0; &#x111;&#xfa;ng&#xa;(tham kh&#x1ea3;o b&#x1ed9; &#x111;&#x1ec1; 150 c&#xe2;u h&#x1ecf;i d&#x169;ng cho s&#xe1;t h&#x1ea1;ch c&#x1ea5;p gi&#x1ea5;y ph&#xe9;p l&#xe1;i xe m&#xf4; t&#xf4; t&#x1ea1;i &#x111;&#xe2;y)&#xa;&#xa;&#x2013; C&#xe1;ch h&#x1ecd;c nh&#x1b0; sau :&#xa;V&#x1ea1;ch &#x2013; Ph&#x1ed1; &#x2013; D&#x1ea3;i &#x2013; Ph&#x1ea7;n &#x2013; Ph&#x1b0;&#x1a1;ng ti&#x1ec7;n Giao th&#xf4;ng &#x2013;&gt; &#xdd; 1&#xa;&#x1af;u &#x2013; Ph&#x1b0;&#x1a1;ng (C&#x1a1; gi&#x1edb;i) &#x2013; L&#xe0;n &#x2013;&gt; &#xdd; 2&#xa;&#x110;&#x1b0;&#x1edd;ng b&#x1ed9; + Tham gia &#x2013;&gt; &#xdd; 1,2&#xa;Ng&#x1b0;&#x1edd;i &#x111;i&#x1ec1;u khi&#x1ec3;n giao th&#xf4;ng &#x2013;&gt; &#xdd; 2,3&#xa;&#xa;Ph&#x1ea7;n 2. Nh&#x1eef;ng c&#xe2;u h&#x1ecf;i v&#x1ec1; h&#xe0;nh vi b&#x1ecb; nghi&#xea;m c&#x1ea5;m :&#xa;&#xa;-Nh&#x1ead;n d&#x1ea1;ng : Tr&#xea;n c&#xe2;u h&#x1ecf;i c&#xf3; t&#x1eeb; &#x201d; H&#xc0;NH VI&#x201d; Ho&#x1eb7;c &#x201d; B&#x1eca; NGHI&#xca;M C&#x1ea4;M&#x201d; Ho&#x1eb7;c &#x201d; L&#xe0; Thi&#x1ebf;u v&#x103;n&#xa; h&#xf3;a giao th&#xf4;ng&#x201d;.&#xa;&#xa;V&#xed; d&#x1ee5; : C&#xe1;c h&#xe0;nh vi n&#xe0;o ghi d&#x1b0;&#x1edb;i &#x111;&#xe2;y b&#x1ecb; nghi&#xea;m c&#x1ea5;m?&#xa;&#x2013; C&#xe1;c l&#xe0;m : Khi &#x111;&#x1ecd;c th&#x1ea5;y c&#xe2;u h&#x1ecf;i v&#x1ec1; h&#xe0;nh vi b&#x1ecb; nghi&#xea;m c&#x1ea5;m b&#x1ea1;n ch&#x1ecd;n &#x111;&#xe1;p &#xe1;n : B&#x1ecb; Nghi&#xea;m&#xa;c&#x1ea5;m&#x2026;, Kh&#xf4;ng &#x111;&#x1b0;&#x1ee3;c &#x2026;l&#xe0; &#x111;&#xe1;p &#xe1;n &#x110;&#xda;NG&#xa;&#xa;-N&#x1ebf;u kh&#xf4;ng c&#xf3; B&#x1ecb; nghi&#xea;m c&#x1ea5;m&#x2026; ho&#x1eb7;c kh&#xf4;ng &#x111;&#x1b0;&#x1ee3;c&#x2026; trong c&#xe2;u h&#x1ecf;i v&#x1ec1; h&#xe0;nh vi b&#x1ecb; nghi&#xea;m &#xa;c&#x1ea5;m th&#xec; th&#x1b0;&#x1edd;ng c&#x1ea3; hai &#x111;&#xe1;p &#xe1;n s&#x1ebd; l&#xe0; &#x111;&#xe1;p &#xe1;n &#x111;&#xfa;ng.&#xa;&#xa;Ph&#x1ea7;n 3. C&#xe2;u h&#x1ecf;i v&#x1ec1; quy t&#x1eaf;c giao th&#xf4;ng &#x111;&#x1b0;&#x1edd;ng b&#x1ed9; :&#xa;( V&#xed; d&#x1ee5; nh&#x1b0; : Quy t&#x1eaf;c v&#x1b0;&#x1ee3;t xe, quy t&#x1eaf;c chuy&#x1ec3;n h&#x1b0;&#x1edb;ng, quay &#x111;&#x1ea7;u&#x2026;.)&#xa;&#xa;&#x2013; Nh&#x1ead;n d&#x1ea1;ng : Th&#x1b0;&#x1edd;ng c&#xe2;u h&#x1ecf;i v&#x1ec1; quy t&#x1eaf;c s&#x1ebd; c&#xf3; t&#x1eeb; &#x201d; nh&#x1b0; th&#x1ebf; n&#xe0;o&#x201d; ho&#x1eb7;c &#x201c;L&#xe0;m gi&#x201d; ..&#xa;&#xa;V&#xed; d&#x1ee5; : Khi mu&#x1ed1;n chuy&#x1ec3;n h&#x1b0;&#x1edb;ng, ng&#x1b0;&#x1edd;i l&#xe1;i xe ph&#x1ea3;i th&#x1ef1;c hi&#x1ec7;n nh&#x1b0; th&#x1ebf; n&#xe0;o?&#xa;&#xa;-C&#xe1;ch l&#xe0;m &#x111;&#x1ed1;i v&#x1edb;i d&#x1ea1;ng n&#xe0;y:&#xa;+ V&#x1ec1; &#x111;&#x1ed9; Tu&#x1ed5;i c&#x1ee7;a ng&#x1b0;&#x1edd;i l&#xe1;i xe: &#xa;     16 tu&#x1ed5;i  &#x111;u&#x1ee3;c &#x111;i&#x1ec1;u khi&#x1ec3;n xe g&#x1eaf;n m&#xe1;y c&#xf3; dung t&#xed;ch xi lanh nh&#x1ecf; h&#x1a1;n 50 cm3&#xa;     18 tu&#x1ed5;i  &#x111;u&#x1ee3;c &#x111;i&#x1ec1;u khi&#x1ec3;n xe m&#xf4;t&#xf4; c&#xf3; dung t&#xed;ch xi lanh t&#x1eeb; 50cm3 t&#x1edb;i 175 cm3&#xa;+ N&#x1ed3;ng &#x111;&#x1ed9; c&#x1ed3;n khi l&#xe1;i xe:&#xa;    &#x110;&#x1ed1;i v&#x1edb;i &#xf4;t&#xf4;, m&#xe1;y k&#xe9;o, xe m&#xe1;y chuy&#xea;n d&#xf9;ng: C&#x1ea5;m trong c&#x1a1; th&#x1ec3; c&#xf3; n&#x1ed3;ng &#x111;&#x1ed9; c&#x1ed3;n. &#xa;    &#x110;&#x1ed1;i v&#x1edb;i xe m&#xf4;t&#xf4;, g&#x1eaf;n m&#xe1;y: &#xa;&#xa;+ T&#x1ed1;c &#x111;&#x1ed9; : Tr&#xea;n c&#xe2;u h&#x1ecf;i c&#xf3; s&#xf4;  40 km/h th&#xec; ch&#x1ecd;n:&#xa;     Trong khu v&#x1ef1;c &#x111;&#xf4;ng d&#xe2;n c&#x1b0; : xe m&#xe1;y + m&#xf4; t&#xf4; &#xe0; 40km/h&#xa;     Ngo&#xe0;i khu v&#x1ef1;c &#x111;&#xf4;ng d&#xe2;n c&#x1b0; : xe m&#xe1;y &#xe0; 50km/h, m&#xf4; t&#xf4; &#xe0; 60km/h.&#xa;&#xa;+ &#x110;&#x1eb7;t bi&#x1ec3;n b&#xe1;o, quy &#x111;&#x1ecb;nh &#x111;o&#x1ea1;n &#x111;&#x1b0;&#x1edd;ng c&#x1ea5;m, &#x111;&#x1b0;&#x1edd;ng ng&#x1b0;&#x1ee3;c chi&#x1ec1;u &#x2026; l&#xe0; UBND c&#x1ea5;p t&#x1ec9;nh.&#xa;&#xa;+ Tr&#xe1;nh xe &#x111;i ng&#x1b0;&#x1ee3;c chi&#x1ec1;u :&#xa;      Xe xu&#x1ed1;ng d&#x1ed1;c ph&#x1ea3;i nh&#x1b0;&#x1edd;ng l&#xea;n d&#x1ed1;c, xe n&#xe0;o g&#x1ea7;n ch&#x1ed7; tr&#xe1;nh th&#xec; ph&#x1ea3;i v&#xe0;o v&#x1ecb; tr&#xed; &#xa;tr&#xe1;nh tr&#x1b0;&#x1edb;c.&#xa;      Ph&#x1ea3;i chuy&#x1ec3;n t&#x1eeb; &#x111;&#xe8;n chi&#x1ebf;u xa sang chi&#x1ebf;u g&#x1ea7;n.&#xa;&#xa;+ Chuy&#x1ec3;n h&#x1b0;&#x1edb;ng xe : ph&#x1ea3;i gi&#x1ea3;m t&#x1ed1;c &#x111;&#x1ed9;, nh&#x1b0;&#x1edd;ng &#x111;&#x1b0;&#x1edd;ng cho ng&#x1b0;&#x1edd;i &#x111;i b&#x1ed9;, &#x111;i xe &#x111;&#x1ea1;p&#x2026;&#xa;+ Kh&#xf4;ng &#x111;&#x1b0;&#x1ee3;c quay &#x111;&#x1ea7;u tr&#xea;n c&#x1ea7;u, c&#x1ed1;ng, giao nhau c&#xf9;ng m&#x1ee9;c v&#x1edb;i &#x111;&#x1b0;&#x1edd;ng s&#x1eaf;t.&#xa;+ Ph&#x1ea3;i nh&#x1b0;&#x1edd;ng &#x111;&#x1b0;&#x1edd;ng cho ph&#x1b0;&#x1a1;ng ti&#x1ec7;n &#x111;&#x1b0;&#x1edd;ng s&#x1eaf;t v&#xe0; ph&#x1ea3;i d&#x1eeb;ng xe c&#xe1;c 5m  khi PT &#x111;&#x1b0;&#x1edd;ng &#xa;s&#x1eaf;t &#x111;i t&#x1edb;i.&#xa;+ Khi c&#xf3; h&#xe0;nh vi gi&#x1ea3; khai b&#xe1;o m&#x1ea5;t ho&#x1eb7;c t&#x1ea9;y x&#xf3;a th&#xf4;ng tin, s&#x1eed; d&#x1ee5;ng b&#x1eb1;ng l&#xe1;i xe gi&#x1ea3; s&#x1ebd;&#xa; b&#x1ecb; ph&#x1ea1;t 5 n&#x103;m kh&#xf4;ng c&#x1ea5;p b&#x1eb1;ng.&#xa;&#xa;+ S&#x1eed; d&#x1ee5;ng l&#xe0;n &#x111;&#x1b0;&#x1edd;ng :(Nh&#x1edb; ch&#x1ec9; &#x111;u&#x1ee3;c &#x111;i tr&#xea;n m&#x1ed9;t l&#xe0;n &#x111;u&#x1edd;ng + Xe th&#xf4; s&#x1a1; &#x111;i b&#xea;n ph&#x1ea3;i) &#xa;&#xa;+ T&#xed;n hi&#x1ec7;u c&#x1ee7;a ng&#x1b0;&#x1edd;i &#x111;i&#x1ec1;u khi&#x1ec3;n giao th&#xf4;ng: &#xa;      Hai tay ho&#x1eb7;c m&#x1ed9;t tay giang ngang.&#xa;      Tay gi&#x1a1; th&#x1eb3;ng &#x111;&#x1ee9;ng + Tay Gi&#x1a1; v&#x1ec1; ph&#xed;a tr&#x1b0;&#x1edb;c.&#xa;&#xa;+ &#x110;&#x1b0;&#x1edd;ng cao t&#x1ed1;c :&#xa;      C&#x1ea5;m v&#xe0;o &#x111;&#x1b0;&#x1edd;ng cao t&#x1ed1;c : Xe th&#xf4; s&#x1a1;, ngu&#x1edd;i &#x111;i b&#x1ed9;, m&#xf4; t&#xf4;+ g&#x1eaf;n m&#xe1;y c&#xf3; t&#x1ed1;c &#x111;&#x1ed9; &lt;70.&#xa;      Ra &#x111;&#x1b0;&#x1edd;ng cao t&#x1ed1;c: Ph&#x1ea3;i chuy&#x1ec3;n d&#x1ea7;n sang.&#xa;      V&#xe0;o &#x111;&#x1b0;&#x1edd;ng cao t&#x1ed1;c: Ph&#x1ea3;i c&#xf3; t&#xed;n hi&#x1ec7;u&#x2026; + v&#xe0; v&#xe0;o l&#xe0;n &#x111;&#x1b0;&#x1edd;ng t&#x103;ng t&#x1ed1;c tru&#x1edb;c.&#xa;&#xa;+ H&#x1ea7;m &#x111;&#x1b0;&#x1edd;ng b&#x1ed9;: Xe c&#x1a1; gi&#x1edb;i + xe th&#xf4; s&#x1a1;  ph&#x1ea3;i b&#x1ead;t &#x111;&#xe8;n.&#xa;+ Kh&#xf4;ng c&#xf3; b&#xe1;o hi&#x1ec7;u &#x111;i theo v&#xf2;ng xuy&#x1ebf;n -&#xe0; nh&#x1eeb;&#x1a1;ng cho xe &#x111;i &#x111;&#x1ebf;n t&#x1eeb; b&#xea;n ph&#x1ea3;i.&#xa;+ C&#xf3; b&#xe1;o hi&#x1ec7;u &#x111;i theo v&#xf2;ng xuy&#x1ebf;n &#x2014; &gt; nh&#x1b0;&#x1edd;ng cho xe &#x111;i &#x111;&#x1ebf;n t&#x1eeb; b&#xea;n tr&#xe1;i."/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JButton" name="jButton1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Tho&#xe1;t"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+      </Events>
+    </Component>
+  </SubComponents>
+</Form>
